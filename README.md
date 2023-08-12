@@ -95,7 +95,7 @@ x^2 + y^2 + z^2 = 1
 </details>
 
 
-One can also put the inline math in the `summary`  and stil observer the issue
+One can also put the inline math in the `summary`  and **stil observe the issue**:
 <details>
   
 <summary>
