@@ -94,3 +94,25 @@ x^2 + y^2 + z^2 = 1
 
 </details>
 
+
+One can also put the inline math in the `summary`  and stil observer the issue
+<details>
+  
+<summary>
+   I think that $x+y=0$
+</summary>
+
+
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
+```
+
+</details>
+
+
+At last, when viewing the repository on the GH mobile app, in all cases the syntax is highlighted normally, but math (either inline or in the fenced block) isn't rendered at all (probably GH Mobile does not render LaTeX, therefore also the issue with syntax highlighting does not appear)
