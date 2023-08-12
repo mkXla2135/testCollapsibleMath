@@ -1,4 +1,4 @@
-# Inline math in details tag prevents using code blocks
+# Inline math in details tag prevents from using code blocks
 
 As per [documentation](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections), one can
 >  temporarily obscure sections of your Markdown by creating a collapsed section that the reader can choose to expand. For example, when you want to include technical details in an issue comment that may not be relevant or interesting to every reader, you can put those details in a collapsed section.
